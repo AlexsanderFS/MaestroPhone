@@ -582,7 +582,7 @@ public class Main {
     }
     
     public static void cadastrarBateria(){
-        System.out.println("\n\n \t\t\t---- MAESTROPHONE ----      \n");
+        System.out.println("\n\n \t\t\t---- MAESTROPHONE -----     \n");
         
         Bateria bat = new Bateria();
         Scanner scanner = new Scanner(System.in);
