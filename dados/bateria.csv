@@ -1,0 +1,11 @@
+CodDispositivo,Marca,QtdEstoque,ValorDispositivo,TipoDaBateria,Ampere
+1,LG,100,130,Litio,3900
+2,Samsung,100,150,Lipo,4500
+3,Sony,100,125,Litio,3750
+4,Nokia,100,100,Litio,3000
+5,Xiaomi,100,75,Lipo,2250
+6,Motorola,100,90,Litio,2700
+7,Apple,100,200,Lipo,6000
+8,Huawei,100,80,Litio,2400
+9,Asus,100,140,Litio,4200
+10,HTC,100,95,Lipo,2850

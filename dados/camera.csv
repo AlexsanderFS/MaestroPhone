@@ -1,0 +1,21 @@
+CodDispositivo,Marca,QtdEstoque,ValorDispositivo,TipoDaCamera,Megapixel,FpsGravacao,ResolucaoGravacao,ResolucaoFoto,TipoDeFlash
+11,LG,100,330,frontal,16,60,1440 x 900,1920 x 1080,Tela
+21,LG,100,430,traseira,31,60,1920 x 1080,3840 x 2160,LED
+12,Samsung,100,350,frontal,17,60,1440 x 900,1920 x 1080,Tela
+22,Samsung,100,450,traseira,32,60,1920 x 1080,3840 x 2160,LED
+13,Sony,100,325,frontal,16,60,1440 x 900,1920 x 1080,Tela
+23,Sony,100,425,traseira,31,60,1920 x 1080,3840 x 2160,LED
+14,Nokia,100,300,frontal,15,60,1440 x 900,1920 x 1080,Tela
+24,Nokia,100,400,traseira,30,60,1920 x 1080,3840 x 2160,LED
+15,Xiaomi,100,275,frontal,13,30,1280 x 720,1366 x 768,Tela
+25,Xiaomi,100,375,traseira,28,60,1920 x 1080,3840 x 2160,LED
+16,Motorola,100,290,frontal,14,30,1280 x 720,1366 x 768,Tela
+26,Motorola,100,390,traseira,29,60,1920 x 1080,3840 x 2160,LED
+17,Apple,100,400,frontal,20,60,1440 x 900,1920 x 1080,Tela
+27,Apple,100,500,traseira,35,60,1920 x 1080,3840 x 2160,LED
+18,Huawei,100,280,frontal,14,30,1280 x 720,1366 x 768,Tela
+28,Huawei,100,380,traseira,29,60,1920 x 1080,3840 x 2160,LED
+19,Asus,100,340,frontal,17,60,1440 x 900,1920 x 1080,Tela
+29,Asus,100,440,traseira,32,60,1920 x 1080,3840 x 2160,LED
+20,HTC,100,295,frontal,14,30,1280 x 720,1366 x 768,Tela
+30,HTC,100,395,traseira,29,60,1920 x 1080,3840 x 2160,LED

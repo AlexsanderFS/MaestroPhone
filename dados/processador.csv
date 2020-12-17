@@ -1,0 +1,11 @@
+CodDispositivo,Marca,QtdEstoque,ValorDispositivo,QtdNucleos,QtdClocks
+51,LG,100,530,8,2.4
+52,Samsung,100,550,8,2.4
+53,Sony,100,525,8,2.4
+54,Nokia,100,500,8,2.4
+55,Xiaomi,100,475,4,1.2
+56,Motorola,100,490,4,1.2
+57,Apple,100,600,8,2.4
+58,Huawei,100,480,4,1.2
+59,Asus,100,540,8,2.4
+60,HTC,100,495,4,1.2
